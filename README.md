@@ -1,5 +1,5 @@
 
-<h2 align="center">Achievements 🏆 </h2>
+<h2 align="left">Achievements 🏆 :</h2>
 <p align="center"> <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Applied+Data+Science+with+Python.png" / height ="150"> 
  <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data+Sci+Business+Level+2+-+CC+-+2019.png" / height ="150"> 
  <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data+Sci+Foundations+Level+2+-+CC+-+2019.png" / height ="150"> 
@@ -7,7 +7,7 @@
  <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data_Science_Methodologies.png" /height ="150">
  <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data_Visualization_Using_Python.png" /height ="150">
 </p>
-<h2 align="center">My Tech Bag🎒 </h2>
+<h2 align="left">My Tech Bag🎒 :</h2>
 <p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src = "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="90" height="40"/> </a>
  <a href="https://www.python.org" target="_blank"><img src = "https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt = "python" width="90" height="40"/> </a>
  <a href = "https://numpy.org/" target = "_blank"> <img src = "https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt = "numpy" width="90" height="40"/></a>
@@ -22,7 +22,7 @@
   <a href = "https://en.wikipedia.org/wiki/CSS" target = "_blank"> <img src = "https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt = "css" width = "90" height = "40"/> </a>
   <a href = "https://getbootstrap.com/" target = "_blank"> <img src = "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt = "bootstrap" width = "90" height = "40"/> </a> </p>
  
- <h2 align="center">Connect to me on 🔗 : </h2>
+ <h2 align="left">Connect to me on 🔗 : </h2>
  <p align="center">
  <a href="https://github.com/ADVAIT135" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt = "github" height = "40"> </a>
   <a href="https://www.kaggle.com/advaitchavan" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt = "kaggle" height = "40"> </a>
