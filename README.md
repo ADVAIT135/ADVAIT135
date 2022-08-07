@@ -30,6 +30,7 @@
   <a href="https://www.facebook.com/advait.chavan.98/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" alt = "facebook" height = "40"> </a>
   <a href="https://www.instagram.com/advaitchavan/?hl=en" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt = "instagram" height = "40"> </a>
 <a href="https://discord.com/channels/@ADVAIT#7159" target = "_blank"><img src = "https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt = "discord" height = "40"> </a>
+<a href = "https://globalaihub.com/members/advait1350/courses/certificates/" target="_blank"><img src = "https://globalaihub.com/wp-content/uploads/2021/11/logo_quality_min.png.webp" alt = "GlobalAIHub" height = "40"></a>
   
 <h2 align="center">My GitHub Stats 📈 </h2>
 <p align="center">
