@@ -31,6 +31,7 @@
   <a href="https://www.instagram.com/advaitchavan/?hl=en" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt = "instagram" height = "40"> </a>
 <a href="https://discord.com/channels/@ADVAIT#7159" target = "_blank"><img src = "https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt = "discord" height = "40"> </a>
 <a href = "https://globalaihub.com/members/advait1350" target="_blank"><img src = "https://globalaihub.com/wp-content/uploads/2021/11/logo_quality_min.png.webp" alt = "GlobalAIHub" height = "40"></a>
+<a href = "https://www.credly.com/users/advait_chavan_135/badges" target="_blank"><img src = "https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" alt = "Credly" height = "40"></a>
 
   
 <h2 align="center">My GitHub Stats 📈 </h2>
