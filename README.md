@@ -31,8 +31,8 @@
   <a href="https://www.instagram.com/advaitchavan/?hl=en" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt = "instagram" height = "40"> </a>
 <a href="https://discord.com/channels/@ADVAIT#7159" target = "_blank"><img src = "https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt = "discord" height = "40"> </a>
 <a href = "https://www.credly.com/users/advait_chavan_135/badges" target="_blank"><img src = "https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" alt = "Credly" height = "40"></a>
-<p align = "center" style="background-color:Gray;">
-<a href = "https://www.hackerrank.com/advaitchavan135?hr_r=1" target = "_blank"><img src = "https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg"
+<p align = "center">
+<a href = "https://www.hackerrank.com/advaitchavan135?hr_r=1" target = "_blank"><img src = "https://camo.githubusercontent.com/49e713e1463692beaff7b552eb60511454485659f6131286eeab9db84e91840a/68747470733a2f2f69302e77702e636f6d2f6772616473696e67616d65732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30352f3835363737315f3636383232343035333139373834315f313934333639393030395f6f2e706e67"
 alt = "HackerRank" height = "40" width = "200"></a></p>
   
 <h2 align="center">My GitHub Stats 📈 </h2>
