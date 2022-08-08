@@ -31,6 +31,7 @@
   <a href="https://www.instagram.com/advaitchavan/?hl=en" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt = "instagram" height = "40"> </a>
 <a href="https://discord.com/channels/@ADVAIT#7159" target = "_blank"><img src = "https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt = "discord" height = "40"> </a>
 <a href = "https://globalaihub.com/members/advait1350/courses/certificates/" target="_blank"><img src = "https://globalaihub.com/wp-content/uploads/2021/11/logo_quality_min.png.webp" alt = "GlobalAIHub" height = "40"></a>
+<a href = "https://courses.cognitiveclass.ai/dashboard" target = "_blank"><img src = https://s3.us-south.cloud-object-storage.appdomain.cloud/sn-portals-cognitiveclass/portals/logos/5ebc/7166/a5ad/b600/013d/76aa/original/cc-logo.png?1589431217" alt = "Cognitive Class.ai" height = "40"></a>
   
 <h2 align="center">My GitHub Stats 📈 </h2>
 <p align="center">
