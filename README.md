@@ -39,5 +39,5 @@ alt = "HackerRank" height = "40" width = "200"></a></p>
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ADVAIT135.ADVAIT135" />
 <img src = "https://komarev.com/ghpvc/?username=ADVAIT135&color=dc143c&style=plastic&label=visitors:1000 plus -> "></p>
-
-
+ <p align="center"><img  align="top" src="https://github-readme-stats.vercel.app/api?username=advait135&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /><img  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advait135&layout=compact&show_icons=true&theme=radical" /></p>
+ 
