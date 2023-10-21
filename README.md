@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/giphy.gif"></h1> 
+<p align="center"><img src="https://github.com/ADVAIT135/ADVAIT135/blob/eb64cdfd351503f3879eab07248f53878c6c50e3/giphy.gif" width="250" height="250"></p>
 <h2 align="left"> Who am I: </h2>
 <p align = center> <img src="https://github.com/ADVAIT135/Yoshops_Data_Science_Intern/blob/main/ADVAIT%20CHAVAN%20Linked%20In%20Banner.png" / height = 250 /width=1000>
 
