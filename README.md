@@ -1,5 +1,5 @@
-
-<h2 align="left"> Who am I:</h2>
+<h1 align="center">🕉</h1> 
+<h2 align="left"> Who am I: </h2>
 <p align = center> <img src="https://github.com/ADVAIT135/Yoshops_Data_Science_Intern/blob/main/ADVAIT%20CHAVAN%20Linked%20In%20Banner.png" / height = 250 /width=1000>
 
 <h2 align="left">Achievements 🏆 :</h2>
