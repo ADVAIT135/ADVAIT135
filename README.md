@@ -1,4 +1,14 @@
 <p align="center"><img src="https://github.com/ADVAIT135/ADVAIT135/blob/eb64cdfd351503f3879eab07248f53878c6c50e3/giphy.gif" width="250" height="250"></p>
+<p align="center" style="font-size: 20px; color: darkred;">
+  <strong>करचरण कृतं वाक्कायजं कर्मजं वा ।<br>
+  श्रवणनयनजं वा मानसं वापराधं ।<br>
+  विहितमविहितं वा सर्वमेतत्क्षमस्व ।<br>
+  जय जय करुणाब्धे श्रीमहादेव शम्भो ॥<br>
+  श्रीमहादेव शम्भो ॥ श्रीमहादेव शम्भो ॥</strong>
+</p>
+
+
+
 <h2 align="left"> Who am I: </h2>
 <p align = center> <img src="https://github.com/ADVAIT135/Yoshops_Data_Science_Intern/blob/main/ADVAIT%20CHAVAN%20Linked%20In%20Banner.png" / height = 250 /width=1000>
 
