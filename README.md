@@ -46,7 +46,8 @@
 <a href = "https://www.credly.com/users/advait_chavan_135/badges" target="_blank"><img src = "https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" alt = "Credly" height = "40"></a>
 <p align = "center">
 <a href = "https://www.hackerrank.com/advaitchavan135?hr_r=1" target = "_blank"><img src = "https://th.bing.com/th/id/OIP.pY8O2C_T47berB4eU-qZ5AHaHa?w=143&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
-alt = "HackerRank" height = "100" width = "150"></a></p>
+alt = "HackerRank" height = "100" width = "150"></a>
+<a href="https://www.interviewbit.com/profile/advait-chavan/" target="_blank"><img src="https://www.interviewbit.com/_next/static/media/brand.6cf9233b.svg" alt = "InterviewBit"height = "100" width = "150"></a></p>
   
 <h2 align="center">My GitHub Stats 📈 </h2>
 <p align="center">
