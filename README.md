@@ -53,5 +53,10 @@ alt = "HackerRank" height = "100" width = "150"></a>
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ADVAIT135.ADVAIT135" />
 </p>
- <p align="center"><img  align="top" src="https://github-readme-stats.vercel.app/api?username=advait135&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /><img  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advait135&layout=compact&show_icons=true&theme=radical" /></p>
- 
+<!--
+ <p align="center"><img  align="top" src="https://github-readme-stats.vercel.app/api?username=advait135&show_icons=true&theme=radical&include_all_commits=true&count_private=true" /><img  align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advait135&layout=compact&show_icons=true&theme=radical" /></p>-->
+ <!-- Commits, Issues, PRs, Stars --> 
+ <!--<img src="https://github-readme-stats.vercel.app/api?username=ADVAIT135&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" /> </p> 
+ <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADVAIT135&layout=compact&theme=radical" alt="Top Languages" /> </p>-->
+ <p align="center">  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ADVAIT135&theme=radical" alt="Profile Summary" /> </p>
+
