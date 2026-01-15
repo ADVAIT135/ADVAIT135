@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/advait-chavan-69928b129/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt = "linked-in" height = "40"> </a>
   <a href="https://www.facebook.com/advait.chavan.98/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" alt = "facebook" height = "40"> </a>
   <a href="https://www.instagram.com/advaitchavan/?hl=en" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" alt = "instagram" height = "40"> </a>
-<a href="https://discord.com/channels/@ADVAIT#7159" target = "_blank"><img src = "https://www.vectorlogo.zone/logos/discordapp/discordapp-ar21.svg" alt = "discord" height = "40"> </a>
+<a href="https://discord.com/channels/@ADVAIT#7159" target = "_blank"><img src = "https://static.vecteezy.com/system/resources/previews/019/493/250/original/discord-logo-discord-icon-discord-symbol-free-free-vector.jpg" alt = "discord" height = "40"> </a>
 <a href = "https://www.credly.com/users/advait_chavan_135/badges" target="_blank"><img src = "https://info.credly.com/hs-fs/hubfs/Credly_Logo_Orange_10-Inch.png?width=3000&name=Credly_Logo_Orange_10-Inch.png" alt = "Credly" height = "40"></a>
 <p align = "center">
 <a href = "https://www.hackerrank.com/advaitchavan135?hr_r=1" target = "_blank"><img src = "https://th.bing.com/th/id/OIP.pY8O2C_T47berB4eU-qZ5AHaHa?w=143&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
