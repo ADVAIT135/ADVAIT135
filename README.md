@@ -13,12 +13,19 @@
 <p align = center> <img src="https://github.com/ADVAIT135/Yoshops_Data_Science_Intern/blob/main/ADVAIT%20CHAVAN%20Linked%20In%20Banner.png" / height = 250 /width=1000>
 
 <h2 align="left">Achievements 🏆 :</h2>
-<p align="center"> <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Applied+Data+Science+with+Python.png" / height ="150"> 
- <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data+Sci+Business+Level+2+-+CC+-+2019.png" / height ="150"> 
- <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data+Sci+Foundations+Level+2+-+CC+-+2019.png" / height ="150"> 
- <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data_Analysis_using_Python.png" /height ="150">
- <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data_Science_Methodologies.png" /height ="150">
- <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data_Visualization_Using_Python.png" /height ="150">
+<p align="center">
+  <a href="https://www.credly.com/go/094TfJ1FhcfjYof2Tyy0GQ">
+    <img src="https://github.com/ADVAIT135/IBM-DATA-SCIENCE/blob/ecb1d9a326cacd88c43435606da4b664cec55009/ibm-data-science-professional-certificate-v3.png" / height="150">
+  </a>
+  <a href="https://www.credly.com/go/VYbK9JTTl3GYBN4JhVmJhA">
+    <img src="https://github.com/ADVAIT135/GOOGLE-DATA-ANALYTICS/blob/da9d45d254a847bfad8c0adf244644b01d60da9b/google-data-analytics-professional-certificate-v-3.png" / height="150">
+  </a> 
+  <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Applied+Data+Science+with+Python.png" / height ="150"> 
+  <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data+Sci+Business+Level+2+-+CC+-+2019.png" / height ="150"> 
+  <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data+Sci+Foundations+Level+2+-+CC+-+2019.png" / height ="150"> 
+  <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data_Analysis_using_Python.png" /height ="150">
+  <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data_Science_Methodologies.png" /height ="150">
+  <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data_Visualization_Using_Python.png" /height ="150">
 </p>
 <h2 align="left">My Tech Bag🎒 :</h2>
 <p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src = "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="90" height="40"/> </a>
