@@ -11,6 +11,8 @@
 
 <h2 align="left"> Who am I: </h2>
 <p align = center> <img src="https://github.com/ADVAIT135/Yoshops_Data_Science_Intern/blob/main/ADVAIT%20CHAVAN%20Linked%20In%20Banner.png" / height = 250 /width=1000>
+<p align = center> <img src="https://github.com/ADVAIT135/ADVAIT135/blob/b217ae3e4684693bf9ee20b40a0d031505c9ec1f/Bank%2Btech%20Logo.png" / height = 500 /width=1000>
+
 
 <h2 align="left">Achievements 🏆 :</h2>
 <p align="center">
