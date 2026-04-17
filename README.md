@@ -29,20 +29,23 @@
   <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data_Science_Methodologies.png" /height ="150">
   <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data_Visualization_Using_Python.png" /height ="150">
 </p>
+
 <h2 align="left">My Tech Bag🎒 :</h2>
-<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src = "https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="90" height="40"/> </a>
- <a href="https://www.python.org" target="_blank"><img src = "https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt = "python" width="90" height="40"/> </a>
- <a href = "https://numpy.org/" target = "_blank"> <img src = "https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt = "numpy" width="90" height="40"/></a>
- <a href = "https://scikit-learn.org/stable/" target = "_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt = "scikit-learn" width = "90" height = "40"/> </a>
-  <a href = "https://www.tensorflow.org/" target = "_blank"> <img src = "https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt = "tensorflow" width = "90" height = "40"/> </a>
-  <a href = "https://scipy.org/" target = "_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt = "scipy" width = "90" height = "40"/> </a>
-  <a href = "https://jupyter.org/" target = "_blank"> <img src = "https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt = "jupyter" width = "90" height = "40"/> </a>
-  <a href = "https://pandas.pydata.org/" target = "_blank"> <img src = "https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt = "pandas" width = "90" height = "40"/> </a>
-  <a href = "https://www.kaggle.com/" target = "_blank"> <img src = "https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt = "kaggle" width = "90" height = "40"/> </a>
-  <a href = "https://www.java.com/en/" target = "_blank"> <img src = "https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt = "java" width = "90" height = "40"/> </a>
-  <a href = "https://en.wikipedia.org/wiki/HTML5" target = "_blank"> <img src = "https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt = "html" width = "90" height = "40"/> </a>
-  <a href = "https://en.wikipedia.org/wiki/CSS" target = "_blank"> <img src = "https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt = "css" width = "90" height = "40"/> </a>
-  <a href = "https://getbootstrap.com/" target = "_blank"> <img src = "https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt = "bootstrap" width = "90" height = "40"/> </a> </p>
+<p align="center">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" height="40">
+  <a href="https://www.python.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="python" height="40">
+  <a href="https://numpy.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="numpy" height="40">
+  <a href="https://scikit-learn.org/stable/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40">
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" height="40">
+  <a href="https://scipy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" height="40">
+  <a href="https://jupyter.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" height="40">
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" height="40">
+  <a href="https://www.kaggle.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg" alt="kaggle" height="40">
+  <a href="https://www.java.com/en/" target="_blank"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" height="40">
+  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" height="40">
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" height="40">
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" height="40">
+</p>
  
  <h2 align="left">Connect to me on 🔗 : </h2>
  <p align="center">
