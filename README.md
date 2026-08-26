@@ -22,6 +22,7 @@
   <a href="https://www.credly.com/go/VYbK9JTTl3GYBN4JhVmJhA">
     <img src="https://github.com/ADVAIT135/GOOGLE-DATA-ANALYTICS/blob/da9d45d254a847bfad8c0adf244644b01d60da9b/google-data-analytics-professional-certificate-v-3.png" / height="150">
   </a> 
+  <img src="https://github.com/ADVAIT135/ADVAIT135/blob/517adf9e2f7f26da4d82f1eafff2d521dd94e340/digital-essentials-achiever.png" / height ="150"> 
   <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Applied+Data+Science+with+Python.png" / height ="150"> 
   <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data+Sci+Business+Level+2+-+CC+-+2019.png" / height ="150"> 
   <img src="https://github.com/ADVAIT135/ADVAIT135/blob/main/Data+Sci+Foundations+Level+2+-+CC+-+2019.png" / height ="150"> 
